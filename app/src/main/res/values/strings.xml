@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Screen</string>
+    <string name="todo">this image is taken from google</string>
+    <string name="place_order">Place Order</string>
+    <string name="iteam_3">Enter Iteam 3</string>
+    <string name="iteam_2">Enter Iteam 2</string>
+    <string name="iteam_1">Enter Iteam 1</string>
+    <string name="welcome_to_restaurent">Welcome To Restaurent</string>
+</resources>
